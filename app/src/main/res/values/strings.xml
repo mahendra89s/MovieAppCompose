@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="trending">Trending</string>
+    <string name="popular">Popular</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="vote_average">Vote average</string>
+    <string name="vote_count">Vote count</string>
+    <string name="release_date">Release date</string>
+    <string name="revenue">Revenue</string>
+    <string name="budget">Budget</string>
+    <string name="language">Language</string>
+    <string name="production_company">Production company</string>
+    <string name="genres">Genres</string>
+</resources>
